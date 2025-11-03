@@ -1,0 +1,7 @@
+{
+  "total_episodes": 5000,
+  "final_win_rate": 0.96,
+  "final_avg_reward": 14.29,
+  "final_avg_wrong": 1.56,
+  "final_epsilon": 0.01
+}
