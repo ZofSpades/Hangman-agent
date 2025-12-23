@@ -69,8 +69,7 @@ Hangman-agent/
 │
 ├── hangman_ai.ipynb          # Main Jupyter notebook with full implementation
 ├── README.md                  # Project documentation
-├── prompt.md                  # Project prompt/requirements
-├── Problem_Statement.pdf      # Original problem statement
+├── LICENSE                    # MIT License
 │
 └── Data/
     ├── corpus.txt            # Training data (49,979 words)
@@ -234,7 +233,7 @@ This is an educational project demonstrating the integration of statistical mode
 
 ## 📄 License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎓 Learning Outcomes
 
